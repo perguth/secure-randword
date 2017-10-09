@@ -1,0 +1,53 @@
+{
+  "_from": "secure-randword",
+  "_id": "secure-randword@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-EaGUcE+vCHuGhVFj/VGzKpxNDUU=",
+  "_location": "/secure-randword",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "secure-randword",
+    "name": "secure-randword",
+    "escapedName": "secure-randword",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/secure-randword/-/secure-randword-0.1.4.tgz",
+  "_shasum": "11a194704faf087b86855163fd51b32a9c4d0d45",
+  "_spec": "secure-randword",
+  "_where": "/Users/per/Github",
+  "author": {
+    "name": "Nadav Ivgi"
+  },
+  "bugs": {
+    "url": "https://github.com/shesek/randwords/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "secure-random": "^1.1.1"
+  },
+  "deprecated": false,
+  "description": "Generate random words using a CSPRNG",
+  "homepage": "https://github.com/shesek/randwords#readme",
+  "keywords": [
+    "random",
+    "words",
+    "word",
+    "word list"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "secure-randword",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shesek/randwords.git"
+  },
+  "version": "0.1.4"
+}
