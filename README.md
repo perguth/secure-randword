@@ -1,5 +1,7 @@
 ## secure-randword
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pguth/secure-randword.svg)](https://greenkeeper.io/)
+
 Generate random words using a CSPRNG -
 [crypto.getRandom()](http://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback) on nodejs
 or [window.crypto.getRandomValues()](https://developer.mozilla.org/en-US/docs/Web/API/window.crypto.getRandomValues) on browsers,
